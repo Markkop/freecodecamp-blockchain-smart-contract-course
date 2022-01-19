@@ -1,6 +1,7 @@
 # ⛓️ FreeCodeCamps's Solidity, Blockchain, and Smart Contract Course
 
 This repository contains the code that I've implemented while studying blockchain and smart contract development using this great [FreeCodeCamps's Solidity, Blockchain, and Smart Contract Course](https://youtu.be/M576WGiDBdQ) by Patrick Collins.  
+Reference repository: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
 ## Web3.py Simple Storage
 
